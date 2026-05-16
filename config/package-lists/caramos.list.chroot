@@ -24,6 +24,7 @@ gimp
 tlp
 tlp-rdw
 dkms
+copyq
 
 # Vietnamese input
 fcitx5
