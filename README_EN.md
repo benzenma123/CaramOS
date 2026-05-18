@@ -38,9 +38,21 @@
 | **LAN file sharing** | Warpinator — AirDrop-like file transfer |
 | **Lightweight** | Runs smoothly on low-spec hardware |
 
-### Screenshots
+<p align="center">
+  <img src="assets/caramos_vietnam_banner.png" alt="CaramOS Open Beta banner" width="900">
+</p>
 
-> *Coming soon with the first beta release*
+### CaramOS Experience
+
+From boot menu to desktop, CaramOS is consistently branded to feel friendly,
+modern, and ready for Vietnamese users out of the box.
+
+| Step | Screenshot |
+|---|---|
+| **1. GRUB boot menu**<br>Select the live session or start the installer. | <img src="assets/screenshots/01-grub-menu.png" alt="CaramOS GRUB boot menu" width="420"> |
+| **2. Startup loading**<br>Customized Plymouth startup branding. | <img src="assets/screenshots/02-startup-loading.png" alt="CaramOS startup loading screen" width="420"> |
+| **3. Desktop**<br>Cinnamon desktop with CaramOS theme, icons, panel, and wallpaper. | <img src="assets/screenshots/03-desktop.png" alt="CaramOS Cinnamon desktop" width="420"> |
+| **4. Neofetch**<br>CaramOS system identity shown directly in the terminal. | <img src="assets/screenshots/04-neofetch.png" alt="CaramOS neofetch output" width="420"> |
 
 ### Installation
 
@@ -151,6 +163,16 @@ We welcome contributions! See [CONTRIBUTING_EN.md](CONTRIBUTING_EN.md) for guide
 - Testing on different hardware
 - Documentation and translations
 - Writing Windows app install scripts for Caram Center
+
+### Contributors
+
+Thanks to everyone who has contributed to CaramOS on GitHub.
+
+<p align="center">
+  <a href="https://github.com/VN-Linux-Family/CaramOS/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=VN-Linux-Family/CaramOS" alt="CaramOS GitHub contributors">
+  </a>
+</p>
 
 ### License
 

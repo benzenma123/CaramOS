@@ -48,6 +48,22 @@ trình duyệt, ứng dụng văn phòng và các tiện ích quen thuộc.
 | **Neofetch/Fastfetch CaramOS** | Logo ASCII màu và OS identity đồng bộ theo version CaramOS |
 | **Build linh hoạt** | Dev build nhanh bằng `lz4`, release build nhỏ hơn bằng `xz`, hỗ trợ Docker |
 
+<p align="center">
+  <img src="assets/caramos_vietnam_banner.png" alt="CaramOS Open Beta banner" width="900">
+</p>
+
+## Trải nghiệm CaramOS
+
+Từ boot menu đến desktop, CaramOS được tuỳ biến đồng bộ để mang lại cảm giác
+thân thiện, hiện đại và sẵn sàng cho người dùng Việt Nam.
+
+| Bước | Hình ảnh |
+|---|---|
+| **1. GRUB boot menu**<br>Chọn live session hoặc cài đặt CaramOS. | <img src="assets/screenshots/01-grub-menu.png" alt="CaramOS GRUB boot menu" width="420"> |
+| **2. Startup loading**<br>Màn hình khởi động/Plymouth branding. | <img src="assets/screenshots/02-startup-loading.png" alt="CaramOS startup loading screen" width="420"> |
+| **3. Desktop**<br>Giao diện Cinnamon đã tuỳ biến theme, icon, panel và wallpaper. | <img src="assets/screenshots/03-desktop.png" alt="CaramOS Cinnamon desktop" width="420"> |
+| **4. Neofetch**<br>Thông tin hệ thống và nhận diện CaramOS trong terminal. | <img src="assets/screenshots/04-neofetch.png" alt="CaramOS neofetch output" width="420"> |
+
 ## Công nghệ sử dụng
 
 | Thành phần | Công nghệ / cấu hình hiện tại |
@@ -285,6 +301,16 @@ Quy ước nhanh:
 | Sửa overlay hệ thống | `config/includes.chroot/` |
 | Sửa version | `scripts/config.sh` |
 | Sửa workflow release | `.github/workflows/build.yml` |
+
+## Contributors
+
+Cảm ơn tất cả thành viên đã đóng góp cho CaramOS trên GitHub.
+
+<p align="center">
+  <a href="https://github.com/VN-Linux-Family/CaramOS/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=VN-Linux-Family/CaramOS" alt="CaramOS GitHub contributors">
+  </a>
+</p>
 
 ## Giấy phép
 
